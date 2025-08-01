@@ -46,12 +46,12 @@ This project is great for practicing:
 
 ---
 
+## ▶️ How to Run
+
+You can run the code directly in **Google Colab** (no setup needed):
+https://colab.research.google.com/github/tara-hassanzadeh/advanced_weather_app/blob/main/advanced_weather_app.ipynb
+
 ## ⚙️ Requirements
 
 - Python 3.6+
 - `requests` library
-
-Install `requests` if needed:
-
-```bash
-pip install requests
